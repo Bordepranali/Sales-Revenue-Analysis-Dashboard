@@ -28,3 +28,12 @@ This project is a Power BI dashboard created to analyze sales and revenue data a
 ## Dashboard Preview
 
 ![Sales & Revenue Analysis Dashboard](dashboard.png)
+
+## Business Insights
+
+- Technology generates the highest revenue among the product categories.
+- The West region contributes the highest revenue.
+- Consumer customers contribute the largest share of revenue.
+- Revenue trends vary across months, helping identify stronger and weaker sales periods.
+- The Top 10 Products analysis highlights the products contributing most to overall revenue.
+- The dashboard helps track revenue, profit, orders, and quantity through interactive filters.
