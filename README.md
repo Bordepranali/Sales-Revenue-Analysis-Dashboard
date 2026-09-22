@@ -86,6 +86,8 @@ Based on the dashboard analysis:
 
 ## Dashboard Preview
 
+![Sales & Revenue Analysis Dashboard](dashboard.png)
+
 The dashboard provides a single interactive view of key sales and revenue metrics.
 
 **Sales & Revenue Analysis Dashboard**
